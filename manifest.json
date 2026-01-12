@@ -1,0 +1,31 @@
+{
+  "short_name": "高鐵代訂",
+  "name": "小胖子高鐵-早鳥票/原價票代訂",
+  "description": "快速查詢高鐵車票資訊，提供早鳥票及原價票代訂服務",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#333333",
+  "background_color": "#f5f5f5",
+  "lang": "zh-TW",
+  "categories": ["utilities", "travel"]
+}
